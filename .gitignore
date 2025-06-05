@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Database
+*.rdb
+dump.rdb
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# OS
+.DS_Store
+
+# VSCode
+.vscode/
